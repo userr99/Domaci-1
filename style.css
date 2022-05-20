@@ -1,0 +1,54 @@
+.container{
+
+
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 5%;
+
+}
+
+.slika{
+
+
+    width: 190px;
+    height: 100px;
+
+}
+
+.borders{
+
+
+    border: 1px solid black;
+}
+
+.stil{
+
+    padding-left: 50px;
+
+}
+
+.center{
+
+    align-items: center;
+
+}
+
+.sivo{
+
+
+    background-color: gray;
+}
+
+.naslov{
+
+font-size: 28px;
+color: gray;
+margin-left: 400px ;
+margin-top: 30px;
+align-items: center;
+
+}
+
+.items{
+    padding-right: 50px; 
+}
